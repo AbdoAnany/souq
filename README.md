@@ -2,7 +2,19 @@
 
 
 [![Header](screenshots/playstoreBanner.png "Header")](https://play.google.com/store/apps/details?id=com.petshop.petshop)
+<p>
+    <img src="screenshots/s1.png" width="150px" height="auto" hspace="5" vspace="20"/>
+    <img src="screenshots/s2.png" width="150px" height="auto" hspace="5" vspace="20"/>
+    <img src="screenshots/s3.png" width="150px" height="auto" hspace="5" vspace="20"/>
+    <img src="screenshots/s4.png" width="150px" height="auto" hspace="5" vspace="20"/>
+   <img src="screenshots/s5.png" width="150px" height="auto" hspace="5" vspace="20"/>
+   <img src="screenshots/s6.png" width="150px" height="auto" hspace="5" vspace="20"/>
+    <img src="screenshots/s7.png" width="150px" height="auto" hspace="5" vspace="20"/>
+     <img src="screenshots/s8.png" width="150px" height="auto" hspace="5" vspace="20"/>
+     <img src="screenshots/s9.png" width="150px" height="auto" hspace="5" vspace="20"/>
+     <img src="screenshots/s10.png" width="150px" height="auto" hspace="5" vspace="20"/>
 
+</p>
 ## Packages Used
 ```
    flutter_svg: ^1.0.0 #-nullsafety.3
@@ -33,19 +45,7 @@
 ````
 
 
-<p>
-    <img src="screenshots/s1.png" width="150px" height="auto" hspace="5" vspace="20"/>
-    <img src="screenshots/s2.png" width="150px" height="auto" hspace="5" vspace="20"/>
-    <img src="screenshots/s3.png" width="150px" height="auto" hspace="5" vspace="20"/>
-    <img src="screenshots/s4.png" width="150px" height="auto" hspace="5" vspace="20"/>
-   <img src="screenshots/s5.png" width="150px" height="auto" hspace="5" vspace="20"/>
-   <img src="screenshots/s6.png" width="150px" height="auto" hspace="5" vspace="20"/>
-    <img src="screenshots/s7.png" width="150px" height="auto" hspace="5" vspace="20"/>
-     <img src="screenshots/s8.png" width="150px" height="auto" hspace="5" vspace="20"/>
-     <img src="screenshots/s9.png" width="150px" height="auto" hspace="5" vspace="20"/>
-     <img src="screenshots/s10.png" width="150px" height="auto" hspace="5" vspace="20"/>
-</p>
-</p>
+
 
 ## Check out my WebSite >> [Portfolio](https://abdoanany.github.io/)
 
