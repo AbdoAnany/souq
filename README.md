@@ -16,6 +16,7 @@
 
 </p>
 ## Packages Used
+
 ```
    flutter_svg: ^1.0.0 #-nullsafety.3
   firebase_auth: ^3.3.4
@@ -42,7 +43,7 @@
   flutter_localizations:
     sdk: flutter
  
-````
+```
 
 
 
