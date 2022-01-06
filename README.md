@@ -1,7 +1,5 @@
 # سوق الجملة
 
-<img align="left" src="screenshots/souq.jpg" width="250px" >
-
 
 [![Header](screenshots/playstoreBanner.png "Header")](https://play.google.com/store/apps/details?id=com.petshop.petshop)
 
@@ -37,17 +35,19 @@
 
 <p>
     <img src="screenshots/s1.png" width="150px" height="auto" hspace="5" vspace="20"/>
-    <img src="https://raw.githubusercontent.com/thenifemi/PetShop/master/screenshots/signup.jpg" width="150px" height="auto" hspace="5" vspace="20"/>
-    <img src="https://raw.githubusercontent.com/thenifemi/PetShop/master/screenshots/login.jpg" width="150px" height="auto" hspace="5" vspace="20"/>
-    <img src="https://raw.githubusercontent.com/thenifemi/PetShop/master/screenshots/home.jpg" width="150px" height="auto" hspace="5" vspace="20"/>
-    <img src="https://raw.githubusercontent.com/thenifemi/PetShop/master/screenshots/productDetails.jpg" width="150px" height="auto" hspace="5" vspace="20"/>
-    <img src="https://raw.githubusercontent.com/thenifemi/PetShop/master/screenshots/cart.jpg" width="150px" height="auto" hspace="5" vspace="20"/>
-    <img src="https://raw.githubusercontent.com/thenifemi/PetShop/master/screenshots/checkout.jpg" width="150px" height="auto" hspace="5" vspace="20"/>
-    <img src="https://raw.githubusercontent.com/thenifemi/PetShop/master/screenshots/forgot.jpg" width="150px" height="auto" hspace="5" vspace="20"/>
-    <img src="https://raw.githubusercontent.com/thenifemi/PetShop/master/screenshots/notifications.jpg" width="150px" height="auto" hspace="5" vspace="20"/>
+    <img src="screenshots/s2.png" width="150px" height="auto" hspace="5" vspace="20"/>
+    <img src="screenshots/s3.png" width="150px" height="auto" hspace="5" vspace="20"/>
+    <img src="screenshots/s4.png" width="150px" height="auto" hspace="5" vspace="20"/>
+   <img src="screenshots/s5.png" width="150px" height="auto" hspace="5" vspace="20"/>
+   <img src="screenshots/s6.png" width="150px" height="auto" hspace="5" vspace="20"/>
+    <img src="screenshots/s7.png" width="150px" height="auto" hspace="5" vspace="20"/>
+     <img src="screenshots/s8.png" width="150px" height="auto" hspace="5" vspace="20"/>
+     <img src="screenshots/s9.png" width="150px" height="auto" hspace="5" vspace="20"/>
+     <img src="screenshots/s10.png" width="150px" height="auto" hspace="5" vspace="20"/>
+</p>
 </p>
 
-## Check out my latest project >> [MOVING PICTURES](https://abdoanany.github.io/)
+## Check out my WebSite >> [Portfolio](https://abdoanany.github.io/)
 
 Souq El-Gomla is an e-commerce application for Android built with Flutter (iOS to come soon). The goal is to implement the Flutter framework for large scale Android and iOS applications, implementing native platform features like camera accessibility, MVC and Provider.
 
